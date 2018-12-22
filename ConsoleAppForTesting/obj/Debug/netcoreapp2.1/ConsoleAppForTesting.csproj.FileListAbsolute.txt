@@ -1,0 +1,14 @@
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\bin\Debug\netcoreapp2.1\ConsoleAppForTesting.deps.json
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\bin\Debug\netcoreapp2.1\ConsoleAppForTesting.runtimeconfig.json
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\bin\Debug\netcoreapp2.1\ConsoleAppForTesting.runtimeconfig.dev.json
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\bin\Debug\netcoreapp2.1\ConsoleAppForTesting.dll
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\bin\Debug\netcoreapp2.1\ConsoleAppForTesting.pdb
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\bin\Debug\netcoreapp2.1\IB.Common.dll
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\bin\Debug\netcoreapp2.1\IB.Common.pdb
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\obj\Debug\netcoreapp2.1\ConsoleAppForTesting.csprojAssemblyReference.cache
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\obj\Debug\netcoreapp2.1\ConsoleAppForTesting.csproj.CoreCompileInputs.cache
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\obj\Debug\netcoreapp2.1\ConsoleAppForTesting.AssemblyInfoInputs.cache
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\obj\Debug\netcoreapp2.1\ConsoleAppForTesting.AssemblyInfo.cs
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\obj\Debug\netcoreapp2.1\ConsoleAppForTesting.csproj.CopyComplete
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\obj\Debug\netcoreapp2.1\ConsoleAppForTesting.dll
+D:\pchmigruppa12-12-1\InternetBanking\ConsoleAppForTesting\obj\Debug\netcoreapp2.1\ConsoleAppForTesting.pdb

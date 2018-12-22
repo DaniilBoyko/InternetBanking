@@ -1,0 +1,39 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [IBUser] (User)
+       Role Membership: <unnamed> (Role Membership)
+       [dbo].[BankAccount] (Table)
+       [dbo].[BankCard] (Table)
+       [dbo].[Permission] (Table)
+       [dbo].[Role] (Table)
+       [dbo].[User] (Table)
+       [dbo].[User].[IX_dbo_User_FirstName_LastName] (Index)
+       [dbo].[UserPermission] (Table)
+       [dbo].[UserPermission].[IX_dbo_UserPermission_UserId] (Index)
+       [dbo].[UserPermission].[IX_dbo_UserPermission_PermissionId] (Index)
+       [dbo].[UserRole] (Table)
+       [dbo].[FK_dbo_BankAccount_dbo_User] (Foreign Key)
+       [dbo].[FK_dbo_BankCard_User_Id] (Foreign Key)
+       [dbo].[FK_dbo_BankCard_BankAccount_Id] (Foreign Key)
+       [dbo].[FK_dbo_UserPermission_dbo_User] (Foreign Key)
+       [dbo].[FK_dbo_UserPermission_dbo_Permission] (Foreign Key)
+       [dbo].[FK_dbo_RoleUser_UserId_User_Id] (Foreign Key)
+       [dbo].[FK_dbo_RoleUser_RoleId_Role_Id] (Foreign Key)
+       [dbo].[CHK_BankAccount_Number_LEN] (Check Constraint)
+       [dbo].[CHK_BankCard_Number_LEN] (Check Constraint)
+       Permission (Permission)
+
+** Supporting actions
+
+The object [IBLogin] already exists in database with a different definition and will not be altered.
+

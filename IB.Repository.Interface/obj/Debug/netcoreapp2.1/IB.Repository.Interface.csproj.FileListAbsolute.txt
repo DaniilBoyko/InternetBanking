@@ -1,0 +1,12 @@
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\bin\Debug\netcoreapp2.1\IB.Repository.Interface.deps.json
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\bin\Debug\netcoreapp2.1\IB.Repository.Interface.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\bin\Debug\netcoreapp2.1\IB.Repository.Interface.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\bin\Debug\netcoreapp2.1\IB.Common.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\bin\Debug\netcoreapp2.1\IB.Common.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\obj\Debug\netcoreapp2.1\IB.Repository.Interface.csprojAssemblyReference.cache
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\obj\Debug\netcoreapp2.1\IB.Repository.Interface.csproj.CoreCompileInputs.cache
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\obj\Debug\netcoreapp2.1\IB.Repository.Interface.AssemblyInfoInputs.cache
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\obj\Debug\netcoreapp2.1\IB.Repository.Interface.AssemblyInfo.cs
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\obj\Debug\netcoreapp2.1\IB.Repository.Interface.csproj.CopyComplete
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\obj\Debug\netcoreapp2.1\IB.Repository.Interface.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Repository.Interface\obj\Debug\netcoreapp2.1\IB.Repository.Interface.pdb

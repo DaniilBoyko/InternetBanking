@@ -1,0 +1,16 @@
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Services.deps.json
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Services.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Services.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Common.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Repository.Interface.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Services.Interface.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Common.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Repository.Interface.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\bin\Debug\netcoreapp2.1\IB.Services.Interface.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\obj\Debug\netcoreapp2.1\IB.Services.csprojAssemblyReference.cache
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\obj\Debug\netcoreapp2.1\IB.Services.csproj.CoreCompileInputs.cache
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\obj\Debug\netcoreapp2.1\IB.Services.AssemblyInfoInputs.cache
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\obj\Debug\netcoreapp2.1\IB.Services.AssemblyInfo.cs
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\obj\Debug\netcoreapp2.1\IB.Services.csproj.CopyComplete
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\obj\Debug\netcoreapp2.1\IB.Services.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Services\obj\Debug\netcoreapp2.1\IB.Services.pdb

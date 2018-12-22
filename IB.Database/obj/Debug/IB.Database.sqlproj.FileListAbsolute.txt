@@ -1,0 +1,10 @@
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\bin\Debug\IB.Database.dacpac
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\bin\Debug\IB.Database.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\bin\Debug\IB.Database.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\obj\Debug\IB.Database.dll
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\obj\Debug\IB.Database.pdb
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\obj\Debug\IB.Database.sqlprojAssemblyReference.cache
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\obj\Debug\Model.xml
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\obj\Debug\refactor.xml
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\obj\Debug\postdeploy.sql
+D:\pchmigruppa12-12-1\InternetBanking\IB.Database\obj\Debug\predeploy.sql
